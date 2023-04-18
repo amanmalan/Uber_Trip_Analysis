@@ -1,7 +1,7 @@
 # Uber_Trip_Analysis
 ### Uber Trips Analysis for New York City
-Exploratory Data Analysis on Uber trips data for New York City usind kaggle dataset. 
-Conclusions that I have made from this analysis are:
+*Exploratory Data Analysis on Uber trips data for New York City usind kaggle dataset.* 
+### Conclusions that I have made from this analysis are:
 Monday is the most profitable day for Uber.
 Uber is less used on saturdays.
 Busiest hour for Uber is 6 pm.
